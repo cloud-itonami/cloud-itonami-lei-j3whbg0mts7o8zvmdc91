@@ -11,11 +11,16 @@ company's behalf, and is not a governed Advisor/Governor actor.
 
 ## Company identity
 
-- **Legal name**: Exxon Mobil Corporation
+- **Legal name**: ExxonMobil Holdings Corporation
 - **LEI (ISO 17442)**: [J3WHBG0MTS7O8ZVMDC91](https://search.gleif.org/#/record/J3WHBG0MTS7O8ZVMDC91) (GLEIF-verified)
-- **Jurisdiction**: US-NJ
+- **Jurisdiction**: US-TX
 - **Website**: https://corporate.exxonmobil.com
 - **Ticker**: XOM (NYSE)
+
+GLEIF recorded a `CHANGE_LEGAL_NAME` event for this LEI, effective 2026-07-01, renaming
+the entity from "Exxon Mobil Corporation" to "ExxonMobil Holdings Corporation"; the
+commonly known "ExxonMobil"/"Exxon Mobil Corporation" branding is unchanged and is
+retained as-is in the archived Terms of Use documents below.
 
 ## Contents
 
